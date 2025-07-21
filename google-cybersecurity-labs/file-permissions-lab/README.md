@@ -34,4 +34,3 @@ The goal was to update permissions accordingly using `chmod`.
 - Hidden files (`.` prefix) should be included in security reviews.
 - Directories with project files should be locked down using proper `chmod` settings.
 - Following the principle of least privilege helps reduce insider risks.
-
